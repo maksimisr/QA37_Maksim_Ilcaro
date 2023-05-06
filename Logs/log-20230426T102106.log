@@ -1,0 +1,32 @@
+10:21:09.404  INFO  manager.ApplicationManager - All tests run in Browser
+10:21:12.559  INFO  manager.ApplicationManager - the link--->https://ilcarro.web.app/search
+10:21:12.629  INFO  tests.TestBase - Name of method--->loginSuccessModel
+10:21:12.634  INFO  manager.ListenerWD - Before Find element---->By.xpath: //a[text()=' Logout ']
+10:21:19.689  INFO  manager.ListenerWD - Afetr Find element---->By.xpath: //a[text()=' Logout ']
+10:21:19.689  INFO  manager.ListenerWD - List of elements0
+10:21:19.699  INFO  tests.TestBase - Start
+10:21:19.699  INFO  tests.TestBase - Test data--> email: 'maks-skam@mail.ru' password: 'Maksim1996$' 
+10:21:19.699  INFO  manager.ListenerWD - before Find Element--->By.xpath: //a[@href='/login?url=%2Fsearch']
+10:21:19.746  INFO  manager.ListenerWD - After Find Element--->By.xpath: //a[@href='/login?url=%2Fsearch']
+10:21:19.761  INFO  manager.ListenerWD - Location (1287, 24)
+10:21:19.833  INFO  manager.ListenerWD - before Find Element--->By.xpath: //input[@autocomplete='username']
+10:21:19.867  INFO  manager.ListenerWD - After Find Element--->By.xpath: //input[@autocomplete='username']
+10:21:19.867  INFO  manager.ListenerWD - Location (1070, 258)
+10:21:20.120  INFO  manager.ListenerWD - before Find Element--->By.xpath: //input[@id='password']
+10:21:20.149  INFO  manager.ListenerWD - After Find Element--->By.xpath: //input[@id='password']
+10:21:20.152  INFO  manager.ListenerWD - Location (1070, 332)
+10:21:20.321  INFO  manager.ListenerWD - before Find Element--->By.xpath: //button[@type='submit']
+10:21:20.348  INFO  manager.ListenerWD - After Find Element--->By.xpath: //button[@type='submit']
+10:21:20.361  INFO  manager.ListenerWD - Location (1070, 401)
+10:21:20.401  INFO  manager.ListenerWD - Before Find element---->By.xpath: //a[text()=' Logout ']
+10:21:21.432  INFO  manager.ListenerWD - Afetr Find element---->By.xpath: //a[text()=' Logout ']
+10:21:21.432  INFO  manager.ListenerWD - List of elements1
+10:21:21.432  INFO  tests.TestBase - Assert checks is user logged
+10:21:21.432  INFO  tests.TestBase - End
+10:21:21.432  INFO  tests.TestBase - Name of method--->loginSuccessModel
+10:21:21.432  INFO  manager.ListenerWD - Before Find element---->By.xpath: //a[text()=' Logout ']
+10:21:21.463  INFO  manager.ListenerWD - Afetr Find element---->By.xpath: //a[text()=' Logout ']
+10:21:21.463  INFO  manager.ListenerWD - List of elements1
+10:21:21.463  INFO  manager.ListenerWD - before Find Element--->By.xpath: //a[text()=' Logout ']
+10:21:21.510  INFO  manager.ListenerWD - After Find Element--->By.xpath: //a[text()=' Logout ']
+10:21:21.526  INFO  manager.ListenerWD - Location (1099, 24)

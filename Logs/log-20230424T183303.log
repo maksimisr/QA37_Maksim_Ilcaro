@@ -1,0 +1,16 @@
+18:33:06.141  INFO  manager.ApplicationManager - All tests run in Browser
+18:33:09.714  INFO  manager.ApplicationManager - the link--->https://ilcarro.web.app/search
+18:33:09.768  INFO  tests.TestBase - Name of method--->searchCurrentMonthSuccess
+18:33:09.776  INFO  manager.ListenerWD - before Find Element--->By.id: city
+18:33:09.811  INFO  manager.ListenerWD - After Find Element--->By.id: city
+18:33:09.828  INFO  manager.ListenerWD - Location (153, 233)
+18:33:10.123  INFO  manager.ListenerWD - before Find Element--->By.cssSelector: div.pac-item
+18:33:11.084  INFO  manager.ListenerWD - After Find Element--->By.cssSelector: div.pac-item
+18:33:11.100  INFO  manager.ListenerWD - Location (154, 278)
+18:33:11.158  INFO  manager.ListenerWD - before Find Element--->By.id: dates
+18:33:11.187  INFO  manager.ListenerWD - After Find Element--->By.id: dates
+18:33:11.199  INFO  manager.ListenerWD - Location (153, 326)
+18:33:11.318  INFO  manager.ListenerWD - before Find Element--->By.xpath: //div[text()=' 28 ']
+18:33:11.362  INFO  manager.ListenerWD - After Find Element--->By.xpath: //div[text()=' 28 ']
+18:33:11.386  INFO  manager.ListenerWD - Location (363, 276)
+18:33:11.487  INFO  manager.ListenerWD - before Find Element--->By.xpath: //div[text()='28  ']

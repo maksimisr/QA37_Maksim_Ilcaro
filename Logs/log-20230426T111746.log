@@ -1,0 +1,30 @@
+11:17:48.601  INFO  manager.ApplicationManager - All tests run in Browser
+11:17:51.663  INFO  manager.ApplicationManager - the link--->https://ilcarro.web.app/search
+11:17:51.712  INFO  tests.TestBase - Name of method--->searchCurrentPeriodSuccess
+11:17:51.717  INFO  manager.ListenerWD - before Find Element--->By.cssSelector: a.logo
+11:17:51.744  INFO  manager.ListenerWD - After Find Element--->By.cssSelector: a.logo
+11:17:51.757  INFO  manager.ListenerWD - Location (153, 16)
+11:17:52.182  INFO  manager.ListenerWD - before Find Element--->By.id: city
+11:17:52.209  INFO  manager.ListenerWD - After Find Element--->By.id: city
+11:17:52.218  INFO  manager.ListenerWD - Location (153, 233)
+11:17:52.460  INFO  manager.ListenerWD - before Find Element--->By.cssSelector: div.pac-item
+11:17:52.789  INFO  manager.ListenerWD - After Find Element--->By.cssSelector: div.pac-item
+11:17:52.799  INFO  manager.ListenerWD - Location (154, 278)
+11:17:52.845  INFO  manager.ListenerWD - before Find Element--->By.id: dates
+11:17:52.866  INFO  manager.ListenerWD - After Find Element--->By.id: dates
+11:17:52.875  INFO  manager.ListenerWD - Location (153, 326)
+11:17:52.984  INFO  manager.ListenerWD - before Find Element--->By.xpath: //div[text()=' 27 ']
+11:17:53.018  INFO  manager.ListenerWD - After Find Element--->By.xpath: //div[text()=' 27 ']
+11:17:53.035  INFO  manager.ListenerWD - Location (323, 276)
+11:17:53.116  INFO  manager.ListenerWD - before Find Element--->By.cssSelector: button[aria-label= 'Next month']
+11:17:53.141  INFO  manager.ListenerWD - After Find Element--->By.cssSelector: button[aria-label= 'Next month']
+11:17:53.152  INFO  manager.ListenerWD - Location (404, 30)
+11:17:53.215  INFO  manager.ListenerWD - before Find Element--->By.xpath: //div[text()=' 27 ']
+11:17:53.248  INFO  manager.ListenerWD - After Find Element--->By.xpath: //div[text()=' 27 ']
+11:17:53.263  INFO  manager.ListenerWD - Location (403, 274)
+11:17:53.332  INFO  manager.ListenerWD - before Find Element--->By.xpath: //button[@type='submit']
+11:17:53.358  INFO  manager.ListenerWD - After Find Element--->By.xpath: //button[@type='submit']
+11:17:53.370  INFO  manager.ListenerWD - Location (153, 365)
+11:17:53.487  INFO  manager.ListenerWD - Before Find element---->By.cssSelector: a.car-container
+11:17:57.631  INFO  manager.ListenerWD - Afetr Find element---->By.cssSelector: a.car-container
+11:17:57.635  INFO  manager.ListenerWD - List of elements464

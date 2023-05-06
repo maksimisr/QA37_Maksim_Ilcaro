@@ -1,0 +1,27 @@
+18:30:55.074  INFO  manager.ApplicationManager - All tests run in Browser
+18:30:58.373  INFO  manager.ApplicationManager - the link--->https://ilcarro.web.app/search
+18:30:58.438  INFO  tests.TestBase - Name of method--->searchCurrentPeriodSuccess
+18:30:58.443  INFO  manager.ListenerWD - before Find Element--->By.id: city
+18:30:58.477  INFO  manager.ListenerWD - After Find Element--->By.id: city
+18:30:58.493  INFO  manager.ListenerWD - Location (153, 233)
+18:30:58.747  INFO  manager.ListenerWD - before Find Element--->By.cssSelector: div.pac-item
+18:30:59.398  INFO  manager.ListenerWD - After Find Element--->By.cssSelector: div.pac-item
+18:30:59.414  INFO  manager.ListenerWD - Location (154, 278)
+18:30:59.466  INFO  manager.ListenerWD - before Find Element--->By.id: dates
+18:30:59.500  INFO  manager.ListenerWD - After Find Element--->By.id: dates
+18:30:59.512  INFO  manager.ListenerWD - Location (153, 326)
+18:30:59.643  INFO  manager.ListenerWD - before Find Element--->By.xpath: //div[text()=' 27 ']
+18:30:59.675  INFO  manager.ListenerWD - After Find Element--->By.xpath: //div[text()=' 27 ']
+18:30:59.694  INFO  manager.ListenerWD - Location (323, 278)
+18:30:59.795  INFO  manager.ListenerWD - before Find Element--->By.cssSelector: button[aria-label= 'Next month']
+18:30:59.818  INFO  manager.ListenerWD - After Find Element--->By.cssSelector: button[aria-label= 'Next month']
+18:30:59.830  INFO  manager.ListenerWD - Location (404, 30)
+18:30:59.883  INFO  manager.ListenerWD - before Find Element--->By.xpath: //div[text()=' 27 ']
+18:30:59.917  INFO  manager.ListenerWD - After Find Element--->By.xpath: //div[text()=' 27 ']
+18:30:59.938  INFO  manager.ListenerWD - Location (403, 274)
+18:31:00.010  INFO  manager.ListenerWD - before Find Element--->By.xpath: //button[@type='submit']
+18:31:00.039  INFO  manager.ListenerWD - After Find Element--->By.xpath: //button[@type='submit']
+18:31:00.053  INFO  manager.ListenerWD - Location (153, 365)
+18:31:00.153  INFO  manager.ListenerWD - Before Find element---->By.cssSelector: a.car-container
+18:31:05.105  INFO  manager.ListenerWD - Afetr Find element---->By.cssSelector: a.car-container
+18:31:05.110  INFO  manager.ListenerWD - List of elements454

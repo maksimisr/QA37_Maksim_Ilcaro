@@ -1,0 +1,27 @@
+11:13:01.197  INFO  manager.ApplicationManager - All tests run in Browser
+11:13:04.352  INFO  manager.ApplicationManager - the link--->https://ilcarro.web.app/search
+11:13:04.389  INFO  tests.TestBase - Name of method--->negativeSearch
+11:13:04.392  INFO  manager.ListenerWD - before Find Element--->By.cssSelector: a.logo
+11:13:04.420  INFO  manager.ListenerWD - After Find Element--->By.cssSelector: a.logo
+11:13:04.433  INFO  manager.ListenerWD - Location (153, 16)
+11:13:04.946  INFO  manager.ListenerWD - before Find Element--->By.id: city
+11:13:04.972  INFO  manager.ListenerWD - After Find Element--->By.id: city
+11:13:04.984  INFO  manager.ListenerWD - Location (153, 233)
+11:13:05.209  INFO  manager.ListenerWD - before Find Element--->By.cssSelector: div.pac-item
+11:13:05.879  INFO  manager.ListenerWD - After Find Element--->By.cssSelector: div.pac-item
+11:13:05.879  INFO  manager.ListenerWD - Location (154, 278)
+11:13:05.936  INFO  manager.ListenerWD - before Find Element--->By.id: dates
+11:13:05.968  INFO  manager.ListenerWD - After Find Element--->By.id: dates
+11:13:05.980  INFO  manager.ListenerWD - Location (153, 326)
+11:13:06.048  INFO  manager.ListenerWD - before Find Element--->By.id: dates
+11:13:06.065  INFO  manager.ListenerWD - After Find Element--->By.id: dates
+11:13:06.084  INFO  manager.ListenerWD - Location (153, 326)
+11:13:06.199  INFO  manager.ListenerWD - before Find Element--->By.xpath: //div[@class='ng-star-inserted']
+11:13:06.216  INFO  manager.ListenerWD - After Find Element--->By.xpath: //div[@class='ng-star-inserted']
+11:13:06.247  INFO  manager.ListenerWD - Location (153, 351)
+11:13:06.247  INFO  manager.ListenerWD - before Find Element--->By.xpath: //div[@class='error ng-star-inserted']
+11:13:06.287  INFO  manager.ListenerWD - After Find Element--->By.xpath: //div[@class='error ng-star-inserted']
+11:13:06.302  INFO  manager.ListenerWD - Location (153, 351)
+11:13:06.302  INFO  manager.ListenerWD - before Find Element--->By.xpath: //button[@type='submit']
+11:13:06.351  INFO  manager.ListenerWD - After Find Element--->By.xpath: //button[@type='submit']
+11:13:06.364  INFO  manager.ListenerWD - Location (153, 384)
